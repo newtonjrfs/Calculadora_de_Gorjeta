@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CalculadoradeGorjeta.iml" filepath="$PROJECT_DIR$/CalculadoradeGorjeta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora_de_Gorjeta.iml" filepath="$PROJECT_DIR$/Calculadora_de_Gorjeta.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
