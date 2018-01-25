@@ -2,4 +2,4 @@
 
 Aplicativo para calculo de gorjeta usando porcentagem
 
-![](https://uploaddeimagens.com.br/imagens/gorjeta-jpg)
+![Gorjeta](https://uploaddeimagens.com.br/images/001/263/335/thumb/gorjeta.jpg?1516843764)
